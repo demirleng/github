@@ -12,6 +12,6 @@ public class ClassThree {
         
         int y=0
             
-        system.out.println("THIS IS REMOTE CODE");
+        System.out.println("THIS IS REMOTE CODE");
     }
 }
