@@ -16,7 +16,9 @@ public class ClassThree {
 
         int z= 10;
 
-            
+        String ahmetcode= "This code is in my local";
         System.out.println("THIS IS REMOTE CODE");
+
+
     }
 }
