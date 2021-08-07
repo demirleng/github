@@ -16,7 +16,7 @@ public class ClassThree {
 
         int z= 10;
 
-            
+        String osmancode= "This code is pushed in my repository";     
         System.out.println("THIS IS REMOTE CODE");
     }
 }
