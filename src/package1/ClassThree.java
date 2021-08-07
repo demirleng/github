@@ -10,7 +10,8 @@ public class ClassThree {
 
         System.out.println(sum);
         
-        int y=0
+        int y=0;
+        int z= 10;
             
         System.out.println("THIS IS REMOTE CODE");
     }
